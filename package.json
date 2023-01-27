@@ -39,6 +39,5 @@
     "webpack-merge": "^5.8.0"
   },
   "dependencies": {
-    "eslint-config-airbnb": "^19.0.4"
   }
 }
